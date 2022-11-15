@@ -2,7 +2,7 @@
 
 <h2>Hakkımda</h2>
 
-Merhaba Ben Merve ALKIŞ. Hatay' yaşıyorum. Araştırmayı ve okumayı severim. Kodluyoruz'da yazılım eğitimi almaya başladım. 
+Merhaba Ben Merve ALKIŞ. Hatay'da yaşıyorum. Araştırmayı ve okumayı severim. Kodluyoruz'da yazılım eğitimi almaya başladım. 
 Yeni bilgiler öğrenmek çok güzel. Yazılımı merak edenller bu eğitimlerden yararlansın, pişman kalmayacaklardır.
 
 <h3>Sevdiklerim</h3>
