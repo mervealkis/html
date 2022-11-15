@@ -8,3 +8,8 @@ Yeni bilgiler öğrenmek çok güzel. Yazılımı merak edenller bu eğitimlerde
 <h3>Sevdiklerim</h3>
 
 Ailemle vakit geçirmek, kitap okumak, araştırmak yapmak, dizi/film izlemek.
+
+
+file:///C:/Users/ASUS/Desktop/web%20tasar%C4%B1m%C4%B1/index.html
+
+www.patika.dev
